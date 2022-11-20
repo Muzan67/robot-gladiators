@@ -15,6 +15,12 @@ console.log(enemyNames.length);
 console.log(enemyNames[0]);
 console.log(enemyNames[3]);
 
+for (var i = 0; i < enemyNames.length; i++) {
+  console.log(enemyNames[i]);
+  console.log(i);
+  console.log(enemyNames[i] + " is at " + i + " index ");
+}
+
 var promptFight = window.prompt(
   "Would you like to FIGHT or SKIP this battle? Enter 'FIGHT' or 'Skip' to choose."
 );
