@@ -60,3 +60,4 @@ Use the window prompt to play through Robot-Gladiators. See if you can defeat al
 Made with ❤️ by Muzan67 Alejandro Cortez
 
 ## Screenshot
+![Robot Gladiators](https://user-images.githubusercontent.com/102841726/204962507-777cb263-3fb8-45cf-94a2-91b664ee23fe.png)
