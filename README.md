@@ -50,14 +50,14 @@ Use the window prompt to play through Robot-Gladiators. See if you can defeat al
 ## Questions / Inquiry
 
 - You can view more of my projects at https://github.com/Muzan67
-- My Github username is Muzan67, the repository for Run Buddy can be found at https://github.com/Muzan67/robot-gladiators
+- My Github username is Muzan67, the repository for Robot Gladiators can be found at https://github.com/Muzan67/robot-gladiators
 - The Github page for this project can be accessed using the following link: https://muzan67.github.io/robot-gladiators/
 - If you have any questions about this projects, please contact me directly at ac.tendo67@gmail.com
 - How to reach me: https://www.linkedin.com/in/alejandro-cortez1967/
 
 ## Contribution
 
-Made with ❤️ by Muzan67 Alejandro Cortez
+Made by Muzan67 Alejandro Cortez
 
 ## Screenshot
 ![Robot Gladiators](https://user-images.githubusercontent.com/102841726/204962507-777cb263-3fb8-45cf-94a2-91b664ee23fe.png)
